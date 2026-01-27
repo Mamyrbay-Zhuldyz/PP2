@@ -22,3 +22,13 @@ x = 5
 y = "John"
 print(type(x))
 print(type(y))
+
+
+# Example 5
+#Global Variables
+x = "awesome"
+
+def myfunc():
+  print("Python is " + x)
+
+myfunc() 

@@ -15,3 +15,13 @@ w = float("4.2") # w will be 4.2
 x = str("s1") # x will be 's1'
 y = str(2)    # y will be '2'
 z = str(3.0)  # z will be '3.0'
+
+
+#Example 4
+x = int("3") # x will be 3
+y = str(34)  # y will be "34"
+
+
+#Example 5
+x = float('8') # x will be 8.0
+y = float(12)  # y will be 12.0
