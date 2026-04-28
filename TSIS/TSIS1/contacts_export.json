@@ -1,0 +1,198 @@
+[
+  {
+    "id": 12,
+    "first_name": "Alexey",
+    "last_name": "Sidorov",
+    "email": "alex@example.com",
+    "birthday": "1988-03-10",
+    "address": "Abaya Ave 15",
+    "created_at": "2026-03-31T10:37:32.916323",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77001234567",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Anna",
+    "last_name": "Smirnova",
+    "email": "anna@example.com",
+    "birthday": "1995-12-01",
+    "address": "Dostyk Ave 20",
+    "created_at": "2026-03-31T00:46:04.046426",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "+77011234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77011234567",
+        "type": "home"
+      },
+      {
+        "phone": "+77011234567",
+        "type": "home"
+      },
+      {
+        "phone": "+77011234567",
+        "type": "home"
+      },
+      {
+        "phone": "+77011234567",
+        "type": "home"
+      },
+      {
+        "phone": "+77011234567",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Dmitry",
+    "last_name": "Kuznetsov",
+    "email": "dmitry@example.com",
+    "birthday": "1991-07-07",
+    "address": "Abylai Khan St 8",
+    "created_at": "2026-03-31T00:46:04.046426",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "+77021234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77021234567",
+        "type": "work"
+      },
+      {
+        "phone": "+77021234567",
+        "type": "work"
+      },
+      {
+        "phone": "+77021234567",
+        "type": "work"
+      },
+      {
+        "phone": "+77021234567",
+        "type": "work"
+      },
+      {
+        "phone": "+77021234567",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "email": "ivan@example.com",
+    "birthday": "1990-05-15",
+    "address": "Pushkin St 10",
+    "created_at": "2026-03-31T00:46:04.046426",
+    "group": "VIP",
+    "phones": [
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77771234567",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Maria",
+    "last_name": "Petrova",
+    "email": "maria@example.com",
+    "birthday": "1992-08-20",
+    "address": "Lermontov St 5",
+    "created_at": "2026-03-31T00:46:04.046426",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019876543",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "first_name": "Zhuldyz",
+    "last_name": "Mamyrbay",
+    "email": "zhldyz.mamyrbay2mail.ru",
+    "birthday": "2008-01-19",
+    "address": null,
+    "created_at": "2026-04-28T08:45:11.682636",
+    "group": null,
+    "phones": [
+      {
+        "phone": "+77716169307",
+        "type": "home"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "first_name": "Test",
+    "last_name": "User",
+    "email": "test@example.com",
+    "birthday": "2000-01-01",
+    "address": "Test Address",
+    "group": "Friend",
+    "phones": [
+      {"phone": "+77000000000", "type": "mobile"}
+    ]
+  }
+]

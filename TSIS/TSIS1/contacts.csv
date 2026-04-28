@@ -1,0 +1,6 @@
+first_name,last_name,phone,email,address,birthday,group,phone_type
+Ivan,Ivanov,+77771234567,ivan@example.com,Pushkin St 10,1990-05-15,Family,mobile
+Maria,Petrova,+77019876543,maria@example.com,Lermontov St 5,1992-08-20,Work,mobile
+Alexey,Sidorov,+77001234567,alex@example.com,Abaya Ave 15,1988-03-10,Friend,mobile
+Anna,Smirnova,+77011234567,anna@example.com,Dostyk Ave 20,1995-12-01,Family,home
+Dmitry,Kuznetsov,+77021234567,dmitry@example.com,Abylai Khan St 8,1991-07-07,Work,work
